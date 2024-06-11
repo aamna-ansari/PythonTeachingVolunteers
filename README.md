@@ -54,12 +54,21 @@
       <th>Days</th>
       <th>Video Links (Facebook)</br></th>
       <th>Materials</th>
+     <th>Topics</th>
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
         <tr>
     <td align="center"><b>Day 01</b></br>10-Jun-2024</td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/992841545965466">Introduction to Python</br></td>
     <td align="center" ><a href="https://drive.google.com/file/d/1kWPpQ_brVAlMaRzp2H_iX9bFg773FCJS/view?usp=sharing">Slides</td>
+        <td align="center">Introduction to Python <br/> History of python<br/>Features & Applications of python<br/>IDE for Python</td>
+      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+  </tr>
+           <tr>
+    <td align="center"><b>Day 02</b></br>11-Jun-2024</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1180336409788797">Variables</td>
+    <td align="center"><a href="https://drive.google.com/file/d/1kWPpQ_brVAlMaRzp2H_iX9bFg773FCJS/view?usp=sharing">Slides</td>
+        <td align="center">Print Function<br/> Variables<br/>Rule to assign variables name<br/>Type of Variable Cases <br/>id () Function</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
 </tbody>
