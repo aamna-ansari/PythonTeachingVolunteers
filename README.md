@@ -37,8 +37,8 @@
                 </a> 
             </td>
             <td align="center">
-                <a href="">
-                    <img src="" width="100px;" alt=""/>
+                <a href="https://github.com/Haris-Mughal">
+                    <img src="https://avatars.githubusercontent.com/u/112110110?v=4" width="100px;" alt="Muhammad Haris Ahsan"/>
                     <br />
                     <sub><b>Muhammad Haris Ahsan</b></sub>
                 </a> 
