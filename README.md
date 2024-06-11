@@ -68,7 +68,7 @@
     <td align="center"><b>Day 02</b></br>11-Jun-2024</td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1180336409788797">Variables</td>
     <td align="center"><a href="https://colab.research.google.com/drive/1rvfeJk2amjWDewSQkq2WrpqXLhyxTWci#scrollTo=5n368lC2ltWU">Practice File</td>
-        <td align="center">Print Function<br/> Variables<br/>Rule to assign variables name<br/>Type of Variable Cases <br/>id () Function</td>
+        <td align="center">Print Function<br/> Variables<br/>Rules to assign variables name<br/>Type of Variable Cases <br/>id () Function</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
 </tbody>
