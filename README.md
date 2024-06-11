@@ -30,8 +30,8 @@
                 </a> 
             </td>
             <td align="center">
-                <a href="">
-                    <img src="" width="100px;" alt=""/>
+                <a href="https://github.com/shaistaDev7">
+                    <img src="https://avatars.githubusercontent.com/u/96947240?v=4" width="100px;" alt=""/>
                     <br />
                     <sub><b>Shaista Zulfiqar</b></sub>
                 </a> 
