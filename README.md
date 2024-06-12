@@ -71,5 +71,10 @@
         <td align="center">Print Function<br/> Variables<br/>Rules to assign variables name<br/>Type of Variable Cases <br/>id () Function</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
+                     <tr>
+    <td align="center" ><b>Day 02</b></br>12-Jun-2024</td>
+    <td align="center" colspan="4">No Class</td>
+    
+  </tr>
 </tbody>
 <table>
