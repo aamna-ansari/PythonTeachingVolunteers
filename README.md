@@ -72,7 +72,7 @@
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
                      <tr>
-    <td align="center" ><b>Day 02</b></br>12-Jun-2024</td>
+    <td align="center" ><b>Day 03</b></br>12-Jun-2024</td>
     <td align="center" colspan="4">No Class</td>
     
   </tr>
