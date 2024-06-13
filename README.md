@@ -72,9 +72,14 @@
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
                      <tr>
-    <td align="center" ><b>Day 03</b></br>12-Jun-2024</td>
-    <td align="center" colspan="4">No Class</td>
-    
+    <td align="center" colspan="5">No Class</td>   
+  </tr>
+           <tr>
+    <td align="center"><b>Day 03</b></br>13-Jun-2024</td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1191962478649652">Data Types</td>
+    <td align="center"><a href="https://colab.research.google.com/drive/1it4fZ__D5O8aez4NGMbuAUTo9Er4JOvV#scrollTo=Uip_PSoY6_sV">Practice File</td>
+        <td align="center">Comments<br/>Data Type<br/> type() function<br/>input() function<br/>Type Casting</td>
+      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
 </tbody>
 <table>
