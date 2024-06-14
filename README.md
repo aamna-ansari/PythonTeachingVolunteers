@@ -71,14 +71,21 @@
         <td align="center">Print Function<br/> Variables<br/>Rules to assign variables name<br/>Type of Variable Cases <br/>id () Function</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
-                     <tr>
+    <tr>
     <td align="center" colspan="5">No Class</td>   
   </tr>
-           <tr>
+        <tr>
     <td align="center"><b>Day 03</b></br>13-Jun-2024</td>
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1191962478649652">Data Types</td>
     <td align="center"><a href="https://colab.research.google.com/drive/1it4fZ__D5O8aez4NGMbuAUTo9Er4JOvV#scrollTo=Uip_PSoY6_sV">Practice File</td>
         <td align="center">Comments<br/>Data Type<br/> type() function<br/>input() function<br/>Type Casting</td>
+      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+  </tr>
+        <tr>
+    <td align="center"><b>Day 04</b></br>14-Jun-2024</td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1904145980007933">Operators</td>
+    <td align="center"><a href="https://colab.research.google.com/drive/1EharaVyXHCSfj_x1jH0PQzqkcO77qfUu#scrollTo=EDeTuaCEXj8O">Practice File</td>
+        <td align="center">Arithmetic Operators<br/>Assignment Operators<br/>Comparison Operators<br/>Logical Operators<br/>Membership Operators<br/>Identity Operators</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
 </tbody>
