@@ -95,14 +95,15 @@
 <table>
     <tbody>
      <tr>
-      <th>Days</th>
+      <th colspan="2">Days</th>
       <th>Video Links (Facebook)</br></th>
       <th>Materials</th>
      <th>Topics</th>
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
         <tr>
-    <td align="center"><b>Day 01</b></br>24-Jun-2024</td>
+    <td align="center"><b>01</td>
+    <td align="center"><b>Monday</b></br>24-Jun-2024</td>
     <td align="center"><a href=""></td>
     <td align="center" ><a href=""></td>
         <td align="center"></td>
@@ -110,3 +111,9 @@
   </tr>
 </tbody>
 <table>
+
+
+
+
+
+
