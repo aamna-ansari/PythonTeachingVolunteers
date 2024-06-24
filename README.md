@@ -104,10 +104,10 @@
         <tr>
     <td align="center"><b>01</td>
     <td align="center"><b>Monday</b></br>24-Jun-2024</td>
-    <td align="center"><a href=""></td>
-    <td align="center" ><a href=""></td>
-        <td align="center"></td>
-      <td align="center"><a href=""></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/3746007639001916">Operators</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1sYsmVgj-7xGFcvp8jy7JMQ_WUE7TzICr#scrollTo=9_-5hnwYpvy1">Practice File</td>
+        <td align="center">Identity Operators</br> Bitwise Operators</td>
+      <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
   </tr>
 </tbody>
 <table>
