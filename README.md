@@ -90,3 +90,23 @@
   </tr>
 </tbody>
 <table>
+    
+# Week 02
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Materials</th>
+     <th>Topics</th>
+   <td align="center"><b>Trainer Name</b></td>
+     </tr>  
+        <tr>
+    <td align="center"><b>Day 01</b></br>24-Jun-2024</td>
+    <td align="center"><a href=""></td>
+    <td align="center" ><a href=""></td>
+        <td align="center"></td>
+      <td align="center"><a href=""></td>
+  </tr>
+</tbody>
+<table>
