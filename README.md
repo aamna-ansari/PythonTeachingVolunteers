@@ -109,6 +109,14 @@
         <td align="center">Identity Operators</br> Bitwise Operators</td>
       <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
   </tr>
+          <tr>
+    <td align="center"><b>02</td>
+    <td align="center"><b>Tuesday</b></br>25-Jun-2024</td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/463943756337336">Flow Controls</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1TKi2c2ulI_zjVaU3UN4LuBTbMc0bSPly#scrollTo=wR9aiHsHmCy6">Practice File</td>
+        <td align="center">if Statements</br>else Statements</br>elif Statements</td>
+      <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
+  </tr>
 </tbody>
 <table>
 
