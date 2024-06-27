@@ -120,9 +120,17 @@
   <tr>
     <td align="center"><b>03</td>
     <td align="center"><b>Wednesday</b></br>26-Jun-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/808486358019371">While Statement</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/808486358019371">While Loop</td>
     <td align="center"><a href="https://colab.research.google.com/drive/1pRtHejz4ygRo7LuqrEIsmD8LnQXiTOA-#scrollTo=-ZAn08vQ_R_Q">Practice File</td>
-    <td align="center">While Statements</br>break</br>continue</td>
+    <td align="center">While Loop</br>break</br>continue</td>
+    <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
+  </tr>
+    <tr>
+    <td align="center"><b>04</td>
+    <td align="center"><b>Thursday</b></br>27-Jun-2024</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/2187675348263338">For Loop</td>
+    <td align="center"><a href="https://colab.research.google.com/drive/1PdUXsXVjpgQGTuUxfupPMZswxTqx650y#scrollTo=zB7Ta5KKm9j5">Practice File</td>
+    <td align="center">For loop</br>range()</br>random</td>
     <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
   </tr>
 </tbody>
