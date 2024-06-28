@@ -135,7 +135,7 @@
   </tr>
     <tr>
     <td align="center"><b>05</td>
-    <td align="center"><b>Thursday</b></br>28-Jun-2024</td>
+    <td align="center"><b>Friday</b></br>28-Jun-2024</td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1208568973647659">Problem statement</td>
     <td align="center"><a href="https://colab.research.google.com/drive/1AogN_T-ZtyOj0LydGK7VJTt9ex1-a3NG#scrollTo=bCSIQ_11xZb8&uniqifier=1">Practice File</td>
     <td align="center">Problem statement solve</br>choice()</td>
