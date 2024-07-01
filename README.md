@@ -158,8 +158,8 @@
         <tr>
     <td align="center"><b>01</td>
     <td align="center"><b>Monday</b></br>01-July-2024</td>
-    <td align="center"><a href="">Review Assignments</td>
-    <td align="center" ><a href="">Practice File</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/768362501862751/">Review Assignments</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1io4e9z03p5C78PXPrrEFjl6qYZUiEoqM#scrollTo=N1c5nSv7jciI">Practice File</td>
         <td align="center">Review Assignments</td>
       <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
   </tr>
