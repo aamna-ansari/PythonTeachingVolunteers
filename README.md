@@ -165,13 +165,20 @@
   </tr>
   <tr>
     <td align="center"><b>02</td>
-    <td align="center"><b>Monday</b></br>02-July-2024</td>
+    <td align="center"><b>Tuesday</b></br>02-July-2024</td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1775807086161979">String</td>
     <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
         <td align="center">Strings </br>Multiline string</br>String Concatenation</br>Escape Sequences</br>Accessing Characters by Index</br>Slicing Python Strings</br>Reversing a String</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
-    
+    <tr>
+    <td align="center"><b>03</td>
+    <td align="center"><b>Wednesday</b></br>03-July-2024</td>
+    <td align="center"><a href="">String</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
+        <td align="center">Skipping Characters While Slicing</br>String formatting(f-String)</br>String Methods</td>
+      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+  </tr>
    
 </tbody>
 <table>
