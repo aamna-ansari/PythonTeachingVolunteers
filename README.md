@@ -163,6 +163,14 @@
         <td align="center">Review Assignments</td>
       <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
   </tr>
+  <tr>
+    <td align="center"><b>02</td>
+    <td align="center"><b>Monday</b></br>02-July-2024</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1775807086161979">String</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
+        <td align="center">Strings </br>Multiline string</br>String Concatenation</br>Escape Sequences</br>Accessing Characters by Index</br>Slicing Python Strings</br>Reversing a String</td>
+      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+  </tr>
     
    
 </tbody>
