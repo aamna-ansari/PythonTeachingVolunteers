@@ -174,7 +174,7 @@
     <tr>
     <td align="center"><b>03</td>
     <td align="center"><b>Wednesday</b></br>03-July-2024</td>
-    <td align="center"><a href="">String Methods</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/461826480131512">String Methods</td>
     <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
         <td align="center">Skipping Characters While Slicing</br>String formatting(f-String)</br>String Methods</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
