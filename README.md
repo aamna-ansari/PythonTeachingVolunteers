@@ -187,6 +187,14 @@
         <td align="center">String Methods & Solve Example</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
+  <tr>
+    <td align="center"><b>05</td>
+    <td align="center"><b>Wednesday</b></br>05-July-2024</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/3649196008729358">Lists</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
+        <td align="center">List </br> Create a List</br> List Length</br>Accessing List Items</br>Slicing Items</br>Membership Operators in List</br>Modifying Lists</td>
+      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+  </tr>
    
 </tbody>
 <table>
