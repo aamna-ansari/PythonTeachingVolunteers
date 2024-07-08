@@ -194,10 +194,31 @@
     <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
         <td align="center">List </br> Create a List</br> List Length</br>Accessing List Items</br>Slicing Items</br>Membership Operators in List</br>Modifying Lists</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
-  </tr>
-   
+  </tr>   
 </tbody>
 <table>
+
+# Week 04
+<table>
+    <tbody>
+     <tr>
+      <th colspan="2">Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Materials</th>
+     <th>Topics</th>
+   <td align="center"><b>Trainer Name</b></td>
+     </tr>  
+  <tr>
+    <td align="center"><b>01</td>
+    <td align="center"><b>Monday</b></br>09-July-2024</td>
+    <td align="center"><a href="">Lists</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
+        <td align="center">Add List Items</br>Remove List Items</br>Copying a List</br>Join List</br>Counting Items in a List</br>Index of an Item</br>Reversing a List</br>Sort List </td>
+      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+  </tr>   
+</tbody>
+<table>
+
 
 
 
