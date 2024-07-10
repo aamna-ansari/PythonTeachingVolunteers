@@ -191,7 +191,7 @@
     <td align="center"><b>05</td>
     <td align="center"><b>Wednesday</b></br>05-July-2024</td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/3649196008729358">Lists</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1yt37lcoqeWrdy1cUcbIMNhvqGhnUYWQQ#scrollTo=C-ErTCQOHVYQ">Practice File</td>
         <td align="center">List </br> Create a List</br> List Length</br>Accessing List Items</br>Slicing Items</br>Membership Operators in List</br>Modifying Lists</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>   
@@ -212,7 +212,7 @@
     <td align="center"><b>01</td>
     <td align="center"><b>Monday</b></br>08-July-2024</td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1660046778092108">Lists</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1yt37lcoqeWrdy1cUcbIMNhvqGhnUYWQQ#scrollTo=C-ErTCQOHVYQPractice File</td>
         <td align="center">Add List Items</br>Remove List Items</br>Copying a List</br>Join List</br>Counting Items in a List</br>Index of an Item</br>Reversing a List </td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr> 
@@ -220,7 +220,7 @@
     <td align="center"><b>02</td>
     <td align="center"><b>Tuesday</b></br>09-July-2024</td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/364525473051638">Lists</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1yt37lcoqeWrdy1cUcbIMNhvqGhnUYWQQ#scrollTo=C-ErTCQOHVYQ">Practice File</td>
         <td align="center">Sort(),Sorted()</br>Nested List</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>  
