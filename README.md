@@ -212,7 +212,7 @@
     <td align="center"><b>01</td>
     <td align="center"><b>Monday</b></br>08-July-2024</td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1660046778092108">Lists</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1yt37lcoqeWrdy1cUcbIMNhvqGhnUYWQQ#scrollTo=C-ErTCQOHVYQPractice File</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1yt37lcoqeWrdy1cUcbIMNhvqGhnUYWQQ#scrollTo=C-ErTCQOHVYQ"> Practice File</td>
         <td align="center">Add List Items</br>Remove List Items</br>Copying a List</br>Join List</br>Counting Items in a List</br>Index of an Item</br>Reversing a List </td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr> 
