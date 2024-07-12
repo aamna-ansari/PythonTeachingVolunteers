@@ -229,12 +229,20 @@
   </tr>
  <tr>
     <td align="center"><b>03</td>
-    <td align="center"><b>Tuesday</b></br>11-July-2024</td>
+    <td align="center"><b>Thursday</b></br>11-July-2024</td>
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1484589192419255">Tuples</td>
     <td align="center" ><a href="https://colab.research.google.com/drive/1FteH81-8A7WFR0qxtPegXDcVrIr8ZfbE?usp=sharing">Practice File</td>
         <td align="center">Tuples</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>  
+          <tr>
+    <td align="center"><b>04</td>
+    <td align="center"><b>Friday</b></br>12-July-2024</td>
+    <td align="center"><a href="">Sets</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1gGDTpa0XQ767Te9wG20y9Na0uysZIO1X#scrollTo=dSzGHHpqQL_j">Practice File</td>
+        <td align="center">Sets</td>
+      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+  </tr>
 </tbody>
 <table>
 
