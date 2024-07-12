@@ -235,14 +235,14 @@
         <td align="center">Tuples</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>  
-          <tr>
+<!-- <tr>
     <td align="center"><b>04</td>
     <td align="center"><b>Friday</b></br>12-July-2024</td>
     <td align="center"><a href="">Sets</td>
     <td align="center" ><a href="https://colab.research.google.com/drive/1gGDTpa0XQ767Te9wG20y9Na0uysZIO1X#scrollTo=dSzGHHpqQL_j">Practice File</td>
         <td align="center">Sets</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
-  </tr>
+  </tr> -->
 </tbody>
 <table>
 
