@@ -234,7 +234,10 @@
     <td align="center" ><a href="https://colab.research.google.com/drive/1FteH81-8A7WFR0qxtPegXDcVrIr8ZfbE?usp=sharing">Practice File</td>
         <td align="center">Tuples</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
-  </tr>  
+  </tr>
+          <tr>
+    <td align="center" colspan="6">No Class</td>   
+  </tr>
 <!-- <tr>
     <td align="center"><b>04</td>
     <td align="center"><b>Friday</b></br>12-July-2024</td>
