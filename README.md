@@ -256,7 +256,7 @@
 <tr>
     <td align="center"><b>01</td>
     <td align="center"><b>Monday</b></br>15-July-2024</td>
-    <td align="center"><a href="">Sets</td>
+    <td align="center"><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=816439003923146">Sets</td>
     <td align="center" ><a href="https://colab.research.google.com/drive/1gGDTpa0XQ767Te9wG20y9Na0uysZIO1X#scrollTo=dSzGHHpqQL_j">Practice File</td>
         <td align="center">Sets</br>Create, Access items </br> Add & Remove </br> Union & Intersection Method</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
