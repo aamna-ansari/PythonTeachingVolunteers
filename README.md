@@ -261,9 +261,14 @@
         <td align="center">Sets</br>Create, Access items </br> Add & Remove </br> Union & Intersection Method</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
-           <tr>
+     <tr>
     <td align="center" colspan="6">Class off due to 9th Muharram Holiday</td>   
   </tr>
+          <tr>
+    <td align="center" colspan="6">Class off due to 10th Muharram Holiday</td>   
+  </tr>
+
+          
 </tbody>
 </tbody>
 <table>
