@@ -267,6 +267,14 @@
           <tr>
     <td align="center" colspan="6">Class off due to 10th Muharram Holiday</td>   
   </tr>
+  <tr>
+    <td align="center"><b>02</td>
+    <td align="center"><b>Tuesday</b></br>18-July-2024</td>
+    <td align="center"><a href="https://web.facebook.com/watch/live/?ref=watch_permalink&v=1495253251379730">Sets</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1gGDTpa0XQ767Te9wG20y9Na0uysZIO1X#scrollTo=dSzGHHpqQL_j">Practice File</td>
+        <td align="center">Methods of Sets</br>Practice Question</td>
+      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+  </tr>
 
           
 </tbody>
