@@ -269,13 +269,20 @@
   </tr>
   <tr>
     <td align="center"><b>02</td>
-    <td align="center"><b>Tuesday</b></br>18-July-2024</td>
+    <td align="center"><b>Thursday</b></br>18-July-2024</td>
     <td align="center"><a href="https://web.facebook.com/watch/live/?ref=watch_permalink&v=1495253251379730">Sets</td>
     <td align="center" ><a href="https://colab.research.google.com/drive/1gGDTpa0XQ767Te9wG20y9Na0uysZIO1X#scrollTo=dSzGHHpqQL_j">Practice File</td>
         <td align="center">Methods of Sets</br>Practice Question</td>
       <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
-
+ <tr>
+    <td align="center"><b>03</td>
+    <td align="center"><b>Friday</b></br>19-July-2024</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/448707654656883">Dictionary</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1_pnpXVIF4QwIdF1GLVMJ4xBkJhyCOhIl#scrollTo=PD3WqKg-u3LX">Practice File</td>
+        <td align="center">Dictionary </br> Create a Dictionary</br> Dictionary Length </br>Dictionary with multiple data types</td>
+       <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
+  </tr>
           
 </tbody>
 </tbody>
