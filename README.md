@@ -286,7 +286,7 @@
 </tbody>
 </tbody>
 <table>
-       # Week 06  
+    #Week 06
 
 <table>
     <tbody>
