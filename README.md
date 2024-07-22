@@ -283,12 +283,30 @@
         <td align="center">Dictionary </br> Create a Dictionary</br> Dictionary Length </br>Dictionary with multiple data types</td>
        <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
   </tr>
-          
 </tbody>
 </tbody>
 <table>
+       # Week 06  
 
-
+<table>
+    <tbody>
+     <tr>
+      <th colspan="2">Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Materials</th>
+     <th>Topics</th>
+   <td align="center"><b>Trainer Name</b></td>
+     </tr>  
+        <tr>
+    <td align="center"><b>01</td>
+    <td align="center"><b>Monday</b></br>22-July-2024</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/858233869559210">Dictionary</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1MZQSbFPSa0z5cddZoeFAYBf1SvvAtXcD?usp=sharing#scrollTo=bfFPh2u2ZjlZ">Practice File</td>
+    <td align="center"> Accessing Elements </br> Duplicate Values </br> Add elements </br> Change Value in dictionary</td>
+    <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
+  </tr>  
+</tbody>
+<table>
 
 
 
