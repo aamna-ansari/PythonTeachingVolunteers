@@ -286,8 +286,10 @@
 </tbody>
 </tbody>
 <table>
-    #Week 06
 
+    
+# Week 06
+   
 <table>
     <tbody>
      <tr>
@@ -305,6 +307,9 @@
     <td align="center"> Accessing Elements </br> Duplicate Values </br> Add elements </br> Change Value in dictionary</td>
     <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
   </tr>  
+    <tr>
+    <td align="center" colspan="6">Class Off</td>   
+  </tr>
 </tbody>
 <table>
 
