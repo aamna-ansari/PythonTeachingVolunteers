@@ -303,7 +303,7 @@
     <td align="center"><b>01</td>
     <td align="center"><b>Monday</b></br>22-July-2024</td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/858233869559210">Dictionary</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1MZQSbFPSa0z5cddZoeFAYBf1SvvAtXcD?usp=sharing#scrollTo=bfFPh2u2ZjlZ">Practice File</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1_pnpXVIF4QwIdF1GLVMJ4xBkJhyCOhIl#scrollTo=PD3WqKg-u3LX">Practice File</td>
     <td align="center"> Accessing Elements </br> Duplicate Values </br> Add elements </br> Change Value in dictionary</td>
     <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
   </tr>  
