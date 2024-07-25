@@ -317,13 +317,15 @@
     <td align="center" ><a href="https://colab.research.google.com/drive/1_pnpXVIF4QwIdF1GLVMJ4xBkJhyCOhIl#scrollTo=PD3WqKg-u3LX">Practice File</td>
     <td align="center"> Membership </br> for loop </br> nested dict </br></td>
     <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
-         <td align="center"><b>03</td>
+  </tr>
+        <tr>
+        <td align="center"><b>03</td>
     <td align="center"><b>Wednesday</b></br>25-July-2024</td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/812519170645650">Dictionary</td>
     <td align="center" ><a href="https://colab.research.google.com/drive/1_pnpXVIF4QwIdF1GLVMJ4xBkJhyCOhIl#scrollTo=PD3WqKg-u3LX">Practice File</td>
     <td align="center"> Dict Methods </br> clear() </br> keys() </br> value() </br> items() </br> get()</br></td>
     <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
-  </tr>
+        </tr>
 </tbody>
 <table>
 
