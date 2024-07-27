@@ -331,7 +331,7 @@
     <td align="center"><b>Friday</b></br>27-July-2024</td>
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/786737440199286/">Dictionary & Function </td>
     <td align="center" ><a href="https://colab.research.google.com/drive/1_pnpXVIF4QwIdF1GLVMJ4xBkJhyCOhIl#scrollTo=PD3WqKg-u3LX">Practice File</td>
-    <td align="center"> Dict Methods & function </br></br></td>
+    <td align="center"> Dict Methods & function </br></td>
     <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
         </tr>
 </tbody>
